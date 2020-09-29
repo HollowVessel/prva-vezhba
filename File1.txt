@@ -1,2 +1,4 @@
 zdravo semos!
 ova e mojata prva vezhba za git
+
+Uspeshno go upload na git
